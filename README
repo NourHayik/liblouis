@@ -6,8 +6,8 @@ For more information please visit: https://braille.madaportal.org/?lang=en
 
 [![Watch the video](https://madaportal.org/videoIcon.png)](https://madaportal.org/Braille-Project.mp4)
 
-<video width="320" height="240" controls>
-  <source src="https://madaportal.org/Braille-Project.mp4" type="video/mp4">
+
+<video width="320" height="240" controls autoplay src="https://madaportal.org/Braille-Project.mp4">
   Your browser does not support the video tag.
 </video>
 
